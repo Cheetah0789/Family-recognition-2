@@ -1,0 +1,30 @@
+.heading{
+    width: 50%;
+    font-size: 22px;
+    font-family: cursive;
+    letter-spacing: 3px;
+    text-shadow:2px 2px 5px lemonchiffon ;
+}
+
+body{
+background-color: peru;
+color: black;
+}
+
+.name_of_objects{
+    font-family: monospace;
+    font-size: 20px;
+    color: whitesmoke;
+    letter-spacing: 5px;
+    text-shadow:2px 2px 2px black ;
+}
+
+#camera{
+    width: 320px;
+    height: 300px;
+    border: 3px dashed wheat;
+}
+
+span{
+    color: saddlebrown;
+}
